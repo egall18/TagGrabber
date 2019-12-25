@@ -4,6 +4,6 @@ A Twitter bot is a type of bot software that controls a Twitter account via the 
 The bot software may autonomously perform actions such as tweeting, re-tweeting, liking, following, unfollowing, or direct messaging other accounts.
 I am easily able to update my status, search about anything and retweet that search.
   Pros: Proper usage includes broadcasting helpful information, automatically generating interesting or creative content, and automatically replying to users via direct message.
-  Cons: Improper usage includes circumventing API rate limits, violating user privacy, spamming,[6] and sockpuppeting.
+  Cons: Improper usage includes circumventing API rate limits, violating user privacy, spamming, and sockpuppeting.
 I am currently using PythonAnywhere to run my code tweenty four hours a day.
 I also used 2 seperate twitter accounts for testing purposes.
