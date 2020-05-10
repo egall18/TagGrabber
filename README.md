@@ -6,4 +6,4 @@ I am easily able to update my status, search about anything and retweet that sea
   Pros: Proper usage includes broadcasting helpful information, automatically generating interesting or creative content, and automatically replying to users via direct message.
   Cons: Improper usage includes circumventing API rate limits, violating user privacy, spamming, and sockpuppeting.
 I am currently using PythonAnywhere to run my code tweenty four hours a day.
-I also used 2 seperate twitter accounts for testing purposes.
+I also used 2 separate twitter accounts for testing purposes.
